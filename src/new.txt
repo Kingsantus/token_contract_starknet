@@ -8,11 +8,7 @@ starkli deploy \
     --rpc=http://127.0.0.1:5050
 
 0x002dab46e8ff821405e9342ac6b1d277445ec0147b9aa4736f9854fa00e7aaa6
-0x4b696e67546f6b656e 
-0x4b544e
-0x10 | 0b10000
-0x3130303030303030
- self.name.write('KingToken');
-        self.symbol.write('KTN');
-        self.decimals.write(16);
-        self.mint(recipient, '10000000');
+0x4b696e67546f6b656e = KingToken'
+0x4b544e = KTN
+0x10 | 0b10000 = 16
+0x3130303030303030 = 10000000
